@@ -7,8 +7,11 @@ Queries are created to search through the data for the specific months of June a
 ## Results
 ### Four Differences Between June and December
  -The first difference that was noticed is there are approximately 200 less temperatures recorded for december which is strange considering December is technically a longer month then June by 1 day.
+
 -The second difference noticed was that June temperatures typically averaged higher then Decembers temperatures by approximately 4 degrees.
+
 -The third difference noticed was the IQR for december is slightly larger for December which has an IQR of 5 and Junme has an IQR of 4
+
 -The Fourth difference noticed was the standard deviation for June is lower then Decembers. The Min for December is Lower then Junes Min and the Max for June as suspected is higher then Decembers.
 ## Summary
 ### Data Review
